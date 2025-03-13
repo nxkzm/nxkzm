@@ -8,3 +8,6 @@
     <img height="20" src="https://img.shields.io/github/followers/nxkzm?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=nxkzm&theme=gruvbox)
