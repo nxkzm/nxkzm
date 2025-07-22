@@ -1,8 +1,6 @@
 ## Hi there 👋
 This is personal account. 
 
-[business account](https://github.com/kendo-sonix)
-
 <p align="left">
   <a href="https://github.com/nxkzm">
     <img height="20" src="https://komarev.com/ghpvc/?username=nxkzm" />
